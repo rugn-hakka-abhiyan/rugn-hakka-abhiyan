@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rugn-hakka-abhiyan.github.io/rugn-hakka-abhiyan/sitemap.xml
